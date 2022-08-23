@@ -1,6 +1,7 @@
 ---
 title: Hello World!
 description: My first blog post!
+layout: post
 ---
 
 # Hello World!

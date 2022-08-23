@@ -1,6 +1,6 @@
 ---
 title: ~/about
-layout: about
+layout: page
 permalink: /about
 ---
 

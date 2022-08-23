@@ -1,1 +1,8 @@
 theme: jekyll-theme-console
+header_pages:
+  - index.md
+  - about.md
+
+footer: 'Hello World!'
+
+style: dark
